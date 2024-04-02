@@ -85,7 +85,6 @@ Make sure you have the following prerequisites installed:
 - Java Development Kit (JDK) 8 or later
 - Maven
 - Docker
-- Docker Compose
 - Minikube
 
 ## Installation
