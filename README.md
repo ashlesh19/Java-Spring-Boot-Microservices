@@ -26,47 +26,47 @@ Project Description: This project comprises several microservices along with sup
 
 ## Microservices
 
-### Company
+## Company
 
 - **Description:** Manages company information.
 
-### Job
+## Job
 
 - **Description:** Handles job-related functionalities.
 
-### Reviews
+## Reviews
 
 - **Description:** Allows users to submit and retrieve reviews.
 
 ## Supporting Services
 
-### API Gateway
+## API Gateway
 
 - **Description:** Acts as a single entry point for all microservices.
   
-### Configuration Server
+## Configuration Server
 
 - **Description:** Manages configuration properties for all microservices.
 
-### Service Registry
+## Service Registry
 
 - **Description:** Provides service discovery for microservices.
 
 ## Docker Services
 
-### PostgreSQL
+## PostgreSQL
 
 - **Description:** Database service for storing application data.
 
-### pgAdmin
+## pgAdmin
 
 - **Description:** Web-based administration tool for PostgreSQL.
 
-### Zipkin
+## Zipkin
 
 - **Description:** Distributed tracing system to gather timing data for requests.
 
-### RabbitMQ
+## RabbitMQ
 
 - **Description:** Message broker for handling asynchronous communication between microservices.
 
@@ -78,7 +78,7 @@ All microservices are configured to run in Kubernetes. The application propertie
 
 To get started with this project, follow the instructions below:
 
-### Prerequisites
+## Prerequisites
 
 Make sure you have the following prerequisites installed:
 
@@ -88,7 +88,7 @@ Make sure you have the following prerequisites installed:
 - Docker Compose
 - Minikube
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
